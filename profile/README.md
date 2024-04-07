@@ -1,7 +1,7 @@
 # New ISOs Soon
 
 <p align="center">
-<a href="https://axyl-os.github.io" target="_blank"><img src="https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-logo.svg" width="250px" height="auto"/></a>
+<a href="https://axyl-os.github.io" target="_blank"><img src="https://raw.githubusercontent.com/rubixcube199/Project-Archieves/blob/main/axyl-os.github.io/assets/img/axyl-logo.png)" width="250px" height="auto"/></a>
 </p>
 
 <p align="center">
