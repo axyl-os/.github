@@ -1,4 +1,4 @@
-# New ISOs Soon
+# New ISOs for the Download now are in **BETA** rebasing to Citrin && Hyprland
 
 <p align="center">
 <a href="https://axyl.org" target="_blank"><img src="https://raw.githubusercontent.com/axyl-os/axyl-site/main/assets/img/axyl-logo.svg)" width="250px" height="auto"/></a>
@@ -25,16 +25,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/axyl-os/axyl-iso/releases">
+  <a href="https://github.com/axyl-os/axylos-2-iso/releases">
     <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/download-now.svg" height=65px>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://axyl-os.github.io/">
+  <a href="https://axyl.org/">
     <img src="https://img.shields.io/badge/Learn_More-h?color=1B5488&style=for-the-badge">
   </a>
-  <a href="https://discord.com/invite/GTeVsV2vZd">
+  <a href="https://discord.gg/axylos">
     <img src="https://img.shields.io/badge/JOIN_THE_AXYL_SERVER-%23586AA8.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
